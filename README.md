@@ -1,10 +1,9 @@
 # C# ADO.NET MVC Practice Task
 
 ## Description
-This is an MVC template project in C# using ADO.NET for database operations. It serves as a demonstration of setting up and running an ADO.NET MVC application in Docker and deploying it on Railway. The application is accessible online and can also be run locally in a Docker container.
+This is an MVC template project in C# using ADO.NET for database operations. It serves as a demonstration of setting up and running an ADO.NET MVC application in Docker.
 
 ## Project Links
-- **Deployed on Railway**: [C# Practice Task on Railway](https://cspracticetask-production.up.railway.app)
 - **Docker Hub Repository**: [mates182/cs_practicetask on Docker Hub](https://hub.docker.com/repository/docker/mates182/cs_practicetask)
 
 ## Getting Started
